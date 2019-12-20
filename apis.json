@@ -1,0 +1,54 @@
+{
+    "name": "Xpenser",
+    "description": "Track your expenses with Xpenser via Twitter, SMS, Email, IM, Voice (Jott), and iPhone.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/533-xpenser.jpg",
+    "tags": [
+        "expense",
+        "expenses",
+        "financial",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/xpenser\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Xpenser",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/533-xpenser.jpg",
+            "humanURL": "http:\/\/xpenser.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/xpenser-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/xpenser.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.xpenser.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/xpenser"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/xpenser"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/xpn"
+        }
+    ]
+}
